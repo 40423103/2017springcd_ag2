@@ -36,10 +36,10 @@
 <v t="yen.20170120110024.7" a="E"><vh>封面投影片</vh>
 <v t="yen.20170120110024.8"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20170302110610.1"><vh>組員</vh>
+<v t="leo.20170309113436.1" a="E"><vh>第二週</vh>
+<v t="leo.20170302110610.1" a="E"><vh>組員</vh>
 <v t="leo.20170302110610.2"><vh>組員名單</vh></v>
 </v>
-<v t="leo.20170309113436.1" a="E"><vh>第二週</vh>
 <v t="leo.20170309113436.2" a="E"><vh>標題</vh>
 <v t="leo.20170309113436.3"><vh>第二周</vh></v>
 </v>
@@ -69,12 +69,6 @@
 <v t="leo.20170309114635.12" a="E"><vh>Hyperworks3</vh>
 <v t="leo.20170309114635.13"><vh>逐字稿</vh></v>
 </v>
-<v t="leo.20170309114635.14" a="E"><vh>Fossil倉儲</vh>
-<v t="leo.20170309114635.15"><vh>創立</vh></v>
-</v>
-<v t="leo.20170309114635.16" a="E"><vh>Fossil倉儲</vh>
-<v t="leo.20170309114635.17"><vh>創立</vh></v>
-</v>
 </v>
 </v>
 </v>
@@ -82,7 +76,8 @@
 </v>
 </v>
 <v t="yen.20170108171733.71" a="E"><vh>@path content</vh>
-<v t="leo.20170302111707.1"><vh>@edit 20170302.md</vh></v>
+<v t="leo.20170302111707.1"><vh>@edit 20170223.md</vh></v>
+<v t="leo.20170323091248.1"><vh>@edit 20170302.md</vh></v>
 <v t="yen.20170108171733.81" a="E"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
@@ -203,28 +198,6 @@
 						
 </t>
 <t tx="leo.20170309114635.13">&lt;img src="http://i.imgur.com/sun3QcH.png" height="580"&gt;</t>
-<t tx="leo.20170309114635.14">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20170309114635.15">#Fossil
-</t>
-<t tx="leo.20170309114635.16">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20170309114635.17">
-&lt;img src="http://i.imgur.com/GVGARB4.png"&gt;</t>
 <t tx="leo.20170309114635.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -512,7 +485,14 @@ make.start()</t>
 </t>
 <t tx="yen.20170120110024.8">## 2017 Spring 協同產品設計實習
 
-### 四設計二甲 第二組
+## 四設計二甲 第二組
+
+###[Github](https://github.com/40423103/2017springcd_ag2)
+
+###[Blog](http://40423103.github.io/2017springcd_ag2/blog)
+
+###[Fossil](https://mde2a2.kmol.info/cdag2/home)
+
 
 &lt;small&gt;
 Created by [ag2](http://40423103.github.io/2017springcd_ag2/blog/)
