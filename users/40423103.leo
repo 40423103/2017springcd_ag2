@@ -78,8 +78,11 @@
 </v>
 </v>
 <v t="leo.20170323111159.1" a="E"><vh>第四週</vh>
-<v t="leo.20170323111159.2" a="E"><vh>標題</vh>
+<v t="leo.20170323111159.2"><vh>標題</vh>
 <v t="leo.20170323111159.3"><vh>第四週</vh></v>
+</v>
+<v t="leo.20170323115709.1" a="E"><vh>標題</vh>
+<v t="leo.20170323115709.2"><vh>簡介</vh></v>
 </v>
 <v t="leo.20170323111159.4" a="E"><vh>標題</vh>
 <v t="leo.20170323111159.5"><vh>單連桿</vh></v>
@@ -382,6 +385,19 @@
 
 
 </t>
+<t tx="leo.20170323115709.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170323115709.2">##利用Solvespace繪製單連桿機構，
+
+##並導入V-rep進行動態模擬</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
