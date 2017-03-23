@@ -72,6 +72,29 @@
 <v t="leo.20170309114635.13"><vh>逐字稿</vh></v>
 </v>
 </v>
+<v t="leo.20170323111159.1" a="E"><vh>第四週</vh>
+<v t="leo.20170323111159.2" a="E"><vh>標題</vh>
+<v t="leo.20170323111159.3"><vh>第四週</vh></v>
+</v>
+<v t="leo.20170323111159.4" a="E"><vh>標題</vh>
+<v t="leo.20170323111159.5"><vh>單連桿</vh></v>
+</v>
+<v t="leo.20170323111159.6" a="E"><vh>影片-30</vh>
+<v t="leo.20170323111159.7"><vh>30</vh></v>
+</v>
+<v t="leo.20170323111159.8" a="E"><vh>影片-50</vh>
+<v t="leo.20170323111159.9"><vh>50</vh></v>
+</v>
+<v t="leo.20170323111159.10" a="E"><vh>影片-圓柱</vh>
+<v t="leo.20170323111159.11"><vh>圓柱</vh></v>
+</v>
+<v t="leo.20170323111159.12" a="E"><vh>標題</vh>
+<v t="leo.20170323111159.13"><vh>導入V-rep</vh></v>
+</v>
+<v t="leo.20170323111812.1" a="E"><vh>影片-V-rep</vh>
+<v t="leo.20170323111812.2"><vh>V-rep</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -248,7 +271,92 @@
 						
 </t>
 <t tx="leo.20170323110030.7">&lt;iframe src="https://player.vimeo.com/video/207561287" width="1024" height="520" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/207561287"&gt;四連桿&lt;/a&gt; from &lt;a href="https://vimeo.com/user45467634"&gt;劉怡萱&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+</t>
+<t tx="leo.20170323111159.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170323111159.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170323111159.11">###直徑 5 桿鍵
+
+&lt;iframe src="https://player.vimeo.com/video/209355724" width="1024" height="520" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170323111159.12">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170323111159.13">#導入V-rep</t>
+<t tx="leo.20170323111159.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170323111159.3"># 第四週</t>
+<t tx="leo.20170323111159.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170323111159.5"># 單連桿繪製</t>
+<t tx="leo.20170323111159.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170323111159.7">###長度 30 桿鍵
+
+&lt;iframe src="https://player.vimeo.com/video/209355096" width="1024" height="520" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170323111159.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170323111159.9">###長度 50 桿鍵
+
+&lt;iframe src="https://player.vimeo.com/video/209354247" width="1024" height="520" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20170323111812.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170323111812.2">###導入 V-rep
+
+&lt;iframe src="https://player.vimeo.com/video/209373893" width="1024" height="520" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
