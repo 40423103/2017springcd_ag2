@@ -626,11 +626,8 @@ make.start()</t>
 
 ## 四設計二甲 第二組
 
-###[Github](https://github.com/40423103/2017springcd_ag2)
 
-###[Blog](http://40423103.github.io/2017springcd_ag2/blog)
 
-###[Fossil](https://mde2a2.kmol.info/cdag2/home)
 
 
 &lt;small&gt;
