@@ -36,9 +36,14 @@
 <v t="yen.20170120110024.7" a="E"><vh>封面投影片</vh>
 <v t="yen.20170120110024.8"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20170309113436.1" a="E"><vh>組員</vh>
-<v t="leo.20170302110610.1" a="E"><vh>組員</vh>
-<v t="leo.20170302110610.2"><vh>組員名單</vh></v>
+<v t="leo.20170309113436.1" a="E"><vh>連結</vh>
+<v t="leo.20170302110610.1" a="E"><vh>小組連結</vh>
+<v t="leo.20170302110610.2"><vh>小組連結</vh></v>
+</v>
+</v>
+<v t="leo.20170323115023.1" a="E"><vh>組員</vh>
+<v t="leo.20170323115023.2" a="E"><vh>組員</vh>
+<v t="leo.20170323115023.3"><vh>組員名單</vh></v>
 </v>
 </v>
 <v t="leo.20170323110030.1" a="E"><vh>第二週</vh>
@@ -142,27 +147,13 @@
 
 						
 </t>
-<t tx="leo.20170302110610.2">##組員名單
+<t tx="leo.20170302110610.2">##小組連結
 
-###[40423101 曾宜萱](http://40423101.github.io/2017springcd_hw/)
+###[Github](https://github.com/40423103/2017springcd_ag2)
 
-###[40423103 劉怡萱](http://40423103.github.io/2017springcd_hw/)
+###[Blog](http://40423103.github.io/2017springcd_ag2/blog)
 
-###[40423104 顏暄](http://40423104.github.io/2017springcd_hw/)
-
-###[40423117 李國豪](http://40423117.github.io/2017springcd_hw/)
-
-###[40423136 陳柏維](http://40423136.github.io/2017springcd_hw/)
-
-###[40423149 蔡悌仁](http://40423149.github.io/2017springcd_hw/)
-
-###[40423157 朱明棈](http://40423157.github.io/2017springcd_hw/)
-
-
-
-
-
-</t>
+###[Fossil](https://mde2a2.kmol.info/cdag2/home)</t>
 <t tx="leo.20170309113436.1">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
@@ -358,6 +349,39 @@
 <t tx="leo.20170323111812.2">###導入 V-rep
 
 &lt;iframe src="https://player.vimeo.com/video/209373893" width="1024" height="520" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170323115023.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170323115023.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170323115023.3">##組員名單
+
+###[40423101 曾宜萱](http://40423101.github.io/2017springcd_hw/)
+
+###[40423103 劉怡萱](http://40423103.github.io/2017springcd_hw/)
+
+###[40423104 顏暄](http://40423104.github.io/2017springcd_hw/)
+
+###[40423117 李國豪](http://40423117.github.io/2017springcd_hw/)
+
+###[40423136 陳柏維](http://40423136.github.io/2017springcd_hw/)
+
+###[40423149 蔡悌仁](http://40423149.github.io/2017springcd_hw/)
+
+###[40423157 朱明棈](http://40423157.github.io/2017springcd_hw/)
+
+
+
+
+
+</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
