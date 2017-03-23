@@ -36,18 +36,20 @@
 <v t="yen.20170120110024.7" a="E"><vh>封面投影片</vh>
 <v t="yen.20170120110024.8"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20170309113436.1" a="E"><vh>第二週</vh>
+<v t="leo.20170309113436.1" a="E"><vh>組員</vh>
 <v t="leo.20170302110610.1" a="E"><vh>組員</vh>
 <v t="leo.20170302110610.2"><vh>組員名單</vh></v>
 </v>
-<v t="leo.20170309113436.2" a="E"><vh>標題</vh>
-<v t="leo.20170309113436.3"><vh>第二周</vh></v>
 </v>
-<v t="leo.20170309114458.1" a="E"><vh>標題</vh>
-<v t="leo.20170309114458.2"><vh>4bar</vh></v>
+<v t="leo.20170323110030.1" a="E"><vh>第二週</vh>
+<v t="leo.20170323110030.2" a="E"><vh>標題</vh>
+<v t="leo.20170323110030.3"><vh>第二周</vh></v>
 </v>
-<v t="leo.20170309113436.4" a="E"><vh>影片</vh>
-<v t="leo.20170309113436.5"><vh>影片</vh></v>
+<v t="leo.20170323110030.4" a="E"><vh>標題</vh>
+<v t="leo.20170323110030.5"><vh>4bar</vh></v>
+</v>
+<v t="leo.20170323110030.6" a="E"><vh>影片</vh>
+<v t="leo.20170323110030.7"><vh>影片</vh></v>
 </v>
 </v>
 <v t="leo.20170309114635.1" a="E"><vh>第三週</vh>
@@ -140,40 +142,6 @@
 <t tx="leo.20170309113436.1">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
-<t tx="leo.20170309113436.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20170309113436.3"># 第二週</t>
-<t tx="leo.20170309113436.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20170309113436.5">&lt;iframe src="https://player.vimeo.com/video/207561287" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/207561287"&gt;四連桿&lt;/a&gt; from &lt;a href="https://vimeo.com/user45467634"&gt;劉怡萱&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
-<t tx="leo.20170309114458.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20170309114458.2">#四連桿機構</t>
 <t tx="leo.20170309114635.1">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
@@ -244,6 +212,43 @@
 </t>
 <t tx="leo.20170309114635.9">&lt;img src="http://i.imgur.com/BI0sse9.png" height="580"&gt;
 </t>
+<t tx="leo.20170323110030.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170323110030.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170323110030.3"># 第二週</t>
+<t tx="leo.20170323110030.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170323110030.5">#四連桿機構</t>
+<t tx="leo.20170323110030.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170323110030.7">&lt;iframe src="https://player.vimeo.com/video/207561287" width="1024" height="520" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/207561287"&gt;四連桿&lt;/a&gt; from &lt;a href="https://vimeo.com/user45467634"&gt;劉怡萱&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
