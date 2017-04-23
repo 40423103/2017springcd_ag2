@@ -15,7 +15,8 @@ Author: 40423103
 
 ##(二)四連桿機構協同 Trace Point 查驗
 
-
+ 
+40423101：L = 50
 <!-- 導入 Brython 標準程式庫 -->
  
 <script type="text/javascript" src="https://cdn.rawgit.com/brython-dev/brython/master/www/src/brython_dist.js">
@@ -28,8 +29,7 @@ window.onload=function(){
 brython(1);
 }
 </script>
- 
-  40423101：L = 50
+
  <!-- 以下實際利用  Brython 畫四連桿 trace point 路徑-->
  <canvas id="fourbar_40423101" width="600" height="400"></canvas>
  
@@ -341,6 +341,7 @@ ctx.closePath()
 ##(三)Fourbar Walker OnShape 零件協同繪圖與組立查驗
 
 ##(四) 分組協同零件展示
+
 <link href="./../data/madeleine/src/css/Madeleine.css" rel="stylesheet">
 <script src="./../data/madeleine/src/lib/stats.js"></script>
 <script src="./../data/madeleine/src/lib/detector.js"></script>
@@ -348,3 +349,21 @@ ctx.closePath()
 <script src="./../data/madeleine/src/Madeleine.js"></script>
 
 <div id="target" class="madeleine"></div>
+
+<script>
+window.onload = function(){
+    var madeleine = new Madeleine({
+      target: 'target', // target div id
+      data: './../data/spikeball.stl', // data path
+      path: './../data/madeleine/src/' // path to source directory from current html file
+    });
+}; 
+</script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r68/three.min.js"
+></script>
+<script src="https://rawgit.com/mrdoob/three.js/master/examples/js/controls/TrackballControls.js"
+></script>
+<script src="./../data/w9/loader.js"></script>
+<script src="./../data/w9/stl.js"></script>
+<div>

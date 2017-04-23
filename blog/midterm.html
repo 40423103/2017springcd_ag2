@@ -158,8 +158,8 @@
 <h2>(一)Fossil Server 實習查驗</h2>
 <h3><a href="https://mde2a2.kmol.info/midterm/ag2/wcontent">https://mde2a2.kmol.info/midterm/ag2/wcontent</a></h3>
 <h2>(二)四連桿機構協同 Trace Point 查驗</h2>
-<!-- 導入 Brython 標準程式庫 -->
-
+<p>40423101：L = 50
+<!-- 導入 Brython 標準程式庫 --></p>
 <script type="text/javascript" src="https://cdn.rawgit.com/brython-dev/brython/master/www/src/brython_dist.js">
 </script>
 
@@ -171,8 +171,7 @@ brython(1);
 }
 </script>
 
-<p>40423101：L = 50
- <!-- 以下實際利用  Brython 畫四連桿 trace point 路徑-->
+<p><!-- 以下實際利用  Brython 畫四連桿 trace point 路徑-->
  <canvas id="fourbar_40423101" width="600" height="400"></canvas></p>
 <script type="text/python3">
 from browser import document as doc
@@ -480,6 +479,28 @@ ctx.closePath()
 <script src="./../data/madeleine/src/lib/three.min.js"></script>
 <script src="./../data/madeleine/src/Madeleine.js"></script></p>
 <div id="target" class="madeleine"></div>
+
+<script>
+window.onload = function(){
+    var madeleine = new Madeleine({
+      target: 'target', // target div id
+      data: './../data/spikeball.stl', // data path
+      path: './../data/madeleine/src/' // path to source directory from current html file
+    });
+}; 
+</script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r68/three.min.js"
+></script>
+
+<script src="https://rawgit.com/mrdoob/three.js/master/examples/js/controls/TrackballControls.js"
+></script>
+
+<script src="./../data/w9/loader.js"></script>
+
+<script src="./../data/w9/stl.js"></script>
+
+<div>
             </div>
             <!-- /.entry-content -->
         </article>
