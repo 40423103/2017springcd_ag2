@@ -16,6 +16,8 @@ Author: 40423103
 ##(二)四連桿機構協同 Trace Point 查驗
 
  
+
+40423101 : L=50
 <!-- 導入 Brython 標準程式庫 -->
  
 <script type="text/javascript" src="https://cdn.rawgit.com/brython-dev/brython/master/www/src/brython_dist.js">
@@ -29,7 +31,6 @@ brython(1);
 }
 </script>
  
-40423101 : L=50
  <!-- 以下實際利用  Brython 畫四連桿 trace point 路徑-->
  <canvas id="40423101" width="600" height="400"></canvas>
   
@@ -74,6 +75,19 @@ ctx.closePath()
 </script>
 
 40423103 : L=45
+<!-- 導入 Brython 標準程式庫 -->
+ 
+<script type="text/javascript" src="https://cdn.rawgit.com/brython-dev/brython/master/www/src/brython_dist.js">
+</script>
+ 
+<!-- 啟動 Brython -->
+ 
+<script>
+window.onload=function(){
+brython(1);
+}
+</script>
+ 
  <!-- 以下實際利用  Brython 畫四連桿 trace point 路徑-->
  <canvas id="40423103" width="600" height="400"></canvas>
   
@@ -118,6 +132,19 @@ ctx.closePath()
 </script>
 
 40423104 : L=40
+<!-- 導入 Brython 標準程式庫 -->
+ 
+<script type="text/javascript" src="https://cdn.rawgit.com/brython-dev/brython/master/www/src/brython_dist.js">
+</script>
+ 
+<!-- 啟動 Brython -->
+ 
+<script>
+window.onload=function(){
+brython(1);
+}
+</script>
+ 
  <!-- 以下實際利用  Brython 畫四連桿 trace point 路徑-->
  <canvas id="40423104" width="600" height="400"></canvas>
   
@@ -162,6 +189,19 @@ ctx.closePath()
 </script>
 
 40423117 : L=35
+<!-- 導入 Brython 標準程式庫 -->
+ 
+<script type="text/javascript" src="https://cdn.rawgit.com/brython-dev/brython/master/www/src/brython_dist.js">
+</script>
+ 
+<!-- 啟動 Brython -->
+ 
+<script>
+window.onload=function(){
+brython(1);
+}
+</script>
+ 
  <!-- 以下實際利用  Brython 畫四連桿 trace point 路徑-->
  <canvas id="40423117" width="600" height="400"></canvas>
   
@@ -206,6 +246,19 @@ ctx.closePath()
 </script>
 
 40423136 : L=30
+<!-- 導入 Brython 標準程式庫 -->
+ 
+<script type="text/javascript" src="https://cdn.rawgit.com/brython-dev/brython/master/www/src/brython_dist.js">
+</script>
+ 
+<!-- 啟動 Brython -->
+ 
+<script>
+window.onload=function(){
+brython(1);
+}
+</script>
+ 
 <!-- 以下實際利用  Brython 畫四連桿 trace point 路徑-->
  <canvas id="fourbar_40423229" width="600" height="400"></canvas>
   
@@ -250,6 +303,19 @@ ctx.closePath()
 </script>
 
 40423149 : L=25
+<!-- 導入 Brython 標準程式庫 -->
+ 
+<script type="text/javascript" src="https://cdn.rawgit.com/brython-dev/brython/master/www/src/brython_dist.js">
+</script>
+ 
+<!-- 啟動 Brython -->
+ 
+<script>
+window.onload=function(){
+brython(1);
+}
+</script>
+ 
 <!-- 以下實際利用  Brython 畫四連桿 trace point 路徑-->
  <canvas id="40423149" width="600" height="400"></canvas>
   
@@ -294,6 +360,19 @@ ctx.closePath()
 </script>
 
 40423157 : L=20
+<!-- 導入 Brython 標準程式庫 -->
+ 
+<script type="text/javascript" src="https://cdn.rawgit.com/brython-dev/brython/master/www/src/brython_dist.js">
+</script>
+ 
+<!-- 啟動 Brython -->
+ 
+<script>
+window.onload=function(){
+brython(1);
+}
+</script>
+ 
  <!-- 以下實際利用  Brython 畫四連桿 trace point 路徑-->
  <canvas id="40423157" width="600" height="400"></canvas>
  

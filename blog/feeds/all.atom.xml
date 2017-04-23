@@ -5,8 +5,8 @@
 &lt;h2&gt;(一)Fossil Server 實習查驗&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://mde2a2.kmol.info/midterm/ag2/wcontent"&gt;https://mde2a2.kmol.info/midterm/ag2/wcontent&lt;/a&gt;&lt;/h3&gt;
 &lt;h2&gt;(二)四連桿機構協同 Trace Point 查驗&lt;/h2&gt;
-&lt;!-- 導入 Brython 標準程式庫 --&gt;
-
+&lt;p&gt;40423101 : L=50
+&lt;!-- 導入 Brython 標準程式庫 --&gt;&lt;/p&gt;
 &lt;script type="text/javascript" src="https://cdn.rawgit.com/brython-dev/brython/master/www/src/brython_dist.js"&gt;
 &lt;/script&gt;
 
@@ -18,8 +18,7 @@ brython(1);
 }
 &lt;/script&gt;
 
-&lt;p&gt;40423101 : L=50
- &lt;!-- 以下實際利用  Brython 畫四連桿 trace point 路徑--&gt;
+&lt;p&gt;&lt;!-- 以下實際利用  Brython 畫四連桿 trace point 路徑--&gt;
  &lt;canvas id="40423101" width="600" height="400"&gt;&lt;/canvas&gt;&lt;/p&gt;
 &lt;script type="text/python3"&gt;
 from browser import document as doc
@@ -62,7 +61,19 @@ ctx.closePath()
 &lt;/script&gt;
 
 &lt;p&gt;40423103 : L=45
- &lt;!-- 以下實際利用  Brython 畫四連桿 trace point 路徑--&gt;
+&lt;!-- 導入 Brython 標準程式庫 --&gt;&lt;/p&gt;
+&lt;script type="text/javascript" src="https://cdn.rawgit.com/brython-dev/brython/master/www/src/brython_dist.js"&gt;
+&lt;/script&gt;
+
+&lt;!-- 啟動 Brython --&gt;
+
+&lt;script&gt;
+window.onload=function(){
+brython(1);
+}
+&lt;/script&gt;
+
+&lt;p&gt;&lt;!-- 以下實際利用  Brython 畫四連桿 trace point 路徑--&gt;
  &lt;canvas id="40423103" width="600" height="400"&gt;&lt;/canvas&gt;&lt;/p&gt;
 &lt;script type="text/python3"&gt;
 from browser import document as doc
@@ -105,7 +116,19 @@ ctx.closePath()
 &lt;/script&gt;
 
 &lt;p&gt;40423104 : L=40
- &lt;!-- 以下實際利用  Brython 畫四連桿 trace point 路徑--&gt;
+&lt;!-- 導入 Brython 標準程式庫 --&gt;&lt;/p&gt;
+&lt;script type="text/javascript" src="https://cdn.rawgit.com/brython-dev/brython/master/www/src/brython_dist.js"&gt;
+&lt;/script&gt;
+
+&lt;!-- 啟動 Brython --&gt;
+
+&lt;script&gt;
+window.onload=function(){
+brython(1);
+}
+&lt;/script&gt;
+
+&lt;p&gt;&lt;!-- 以下實際利用  Brython 畫四連桿 trace point 路徑--&gt;
  &lt;canvas id="40423104" width="600" height="400"&gt;&lt;/canvas&gt;&lt;/p&gt;
 &lt;script type="text/python3"&gt;
 from browser import document as doc
@@ -148,7 +171,19 @@ ctx.closePath()
 &lt;/script&gt;
 
 &lt;p&gt;40423117 : L=35
- &lt;!-- 以下實際利用  Brython 畫四連桿 trace point 路徑--&gt;
+&lt;!-- 導入 Brython 標準程式庫 --&gt;&lt;/p&gt;
+&lt;script type="text/javascript" src="https://cdn.rawgit.com/brython-dev/brython/master/www/src/brython_dist.js"&gt;
+&lt;/script&gt;
+
+&lt;!-- 啟動 Brython --&gt;
+
+&lt;script&gt;
+window.onload=function(){
+brython(1);
+}
+&lt;/script&gt;
+
+&lt;p&gt;&lt;!-- 以下實際利用  Brython 畫四連桿 trace point 路徑--&gt;
  &lt;canvas id="40423117" width="600" height="400"&gt;&lt;/canvas&gt;&lt;/p&gt;
 &lt;script type="text/python3"&gt;
 from browser import document as doc
@@ -191,8 +226,21 @@ ctx.closePath()
 &lt;/script&gt;
 
 &lt;p&gt;40423136 : L=30
+&lt;!-- 導入 Brython 標準程式庫 --&gt;&lt;/p&gt;
+&lt;script type="text/javascript" src="https://cdn.rawgit.com/brython-dev/brython/master/www/src/brython_dist.js"&gt;
+&lt;/script&gt;
+
+&lt;!-- 啟動 Brython --&gt;
+
+&lt;script&gt;
+window.onload=function(){
+brython(1);
+}
+&lt;/script&gt;
+
 &lt;!-- 以下實際利用  Brython 畫四連桿 trace point 路徑--&gt;
- &lt;canvas id="fourbar_40423229" width="600" height="400"&gt;&lt;/canvas&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;canvas id="fourbar_40423229" width="600" height="400"&gt;&lt;/canvas&gt;&lt;/p&gt;
 &lt;script type="text/python3"&gt;
 from browser import document as doc
 from browser import html
@@ -234,8 +282,21 @@ ctx.closePath()
 &lt;/script&gt;
 
 &lt;p&gt;40423149 : L=25
+&lt;!-- 導入 Brython 標準程式庫 --&gt;&lt;/p&gt;
+&lt;script type="text/javascript" src="https://cdn.rawgit.com/brython-dev/brython/master/www/src/brython_dist.js"&gt;
+&lt;/script&gt;
+
+&lt;!-- 啟動 Brython --&gt;
+
+&lt;script&gt;
+window.onload=function(){
+brython(1);
+}
+&lt;/script&gt;
+
 &lt;!-- 以下實際利用  Brython 畫四連桿 trace point 路徑--&gt;
- &lt;canvas id="40423149" width="600" height="400"&gt;&lt;/canvas&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;canvas id="40423149" width="600" height="400"&gt;&lt;/canvas&gt;&lt;/p&gt;
 &lt;script type="text/python3"&gt;
 from browser import document as doc
 from browser import html
@@ -277,7 +338,19 @@ ctx.closePath()
 &lt;/script&gt;
 
 &lt;p&gt;40423157 : L=20
- &lt;!-- 以下實際利用  Brython 畫四連桿 trace point 路徑--&gt;
+&lt;!-- 導入 Brython 標準程式庫 --&gt;&lt;/p&gt;
+&lt;script type="text/javascript" src="https://cdn.rawgit.com/brython-dev/brython/master/www/src/brython_dist.js"&gt;
+&lt;/script&gt;
+
+&lt;!-- 啟動 Brython --&gt;
+
+&lt;script&gt;
+window.onload=function(){
+brython(1);
+}
+&lt;/script&gt;
+
+&lt;p&gt;&lt;!-- 以下實際利用  Brython 畫四連桿 trace point 路徑--&gt;
  &lt;canvas id="40423157" width="600" height="400"&gt;&lt;/canvas&gt;&lt;/p&gt;
 &lt;script type="text/python3"&gt;
 from browser import document as doc
