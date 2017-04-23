@@ -15,7 +15,7 @@ Author: 40423103
 
 ##(二)四連桿機構協同 Trace Point 查驗
 
-40423103 : L=45
+40423157 : L=20
 <!-- 導入 Brython 標準程式庫 -->
  
 <script type="text/javascript" src="https://cdn.rawgit.com/brython-dev/brython/master/www/src/brython_dist.js">
@@ -30,17 +30,17 @@ brython(1);
 </script>
  
  <!-- 以下實際利用  Brython 畫四連桿 trace point 路徑-->
- <canvas id="40423103" width="600" height="400"></canvas>
+ <canvas id="40423157" width="600" height="400"></canvas>
   
 <script type="text/python3">
 from browser import document as doc
 from browser import html
 import math
 # 準備繪圖畫布
-canvas = doc["40423103"]
+canvas = doc["40423157"]
 ctx = canvas.getContext("2d")
  
-fourbar_data = open("./../40423103/data/midterm2.csv").read()
+fourbar_data = open("./../40423157/data/midterm7.csv").read()
 fourbar_list = fourbar_data.splitlines()
 # 以下可以利用 ctx 物件進行畫圖
 # 先畫一條直線
