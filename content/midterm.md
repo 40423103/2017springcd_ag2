@@ -224,7 +224,7 @@ import math
 canvas = doc["40423136"]
 ctx = canvas.getContext("2d")
  
-fourbar_data = open("./../40423136/data/midterm5.csv").read()
+fourbar_data = open("./../40423117/data/midterm4.csv").read()
 fourbar_list = fourbar_data.splitlines()
 # 以下可以利用 ctx 物件進行畫圖
 # 先畫一條直線
@@ -358,3 +358,21 @@ ctx.closePath()
 
 
 ##(四) 分組協同零件展示
+
+<link href="./../data/madeleine/src/css/Madeleine.css" rel="stylesheet">
+<script src="./../data/madeleine/src/lib/stats.js"></script>
+<script src="./../data/madeleine/src/lib/detector.js"></script>
+<script src="./../data/madeleine/src/lib/three.min.js"></script>
+<script src="./../data/madeleine/src/Madeleine.js"></script>
+
+<div id="target" class="madeleine"></div>
+
+<script>
+window.onload = function(){
+    var madeleine = new Madeleine({
+      target: 'target', // target div id
+      data: './../data/spikeball.stl', // data path
+      path: './../data/madeleine/src/' // path to source directory from current html file
+    });
+}; 
+</script>
