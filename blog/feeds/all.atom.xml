@@ -342,7 +342,23 @@ window.onload = function(){
       path: './../data/madeleine/src/' // path to source directory from current html file
     });
 }; 
-&lt;/script&gt;</summary></entry><entry><title>期中作業分配</title><link href="./midtermhw.html" rel="alternate"></link><published>2017-04-20T11:00:00+08:00</published><updated>2017-04-20T11:00:00+08:00</updated><author><name>40423103</name></author><id>tag:,2017-04-20:./midtermhw.html</id><summary type="html">&lt;p&gt;期中作業分配&lt;/p&gt;
+&lt;/script&gt;
+
+&lt;script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r68/three.min.js"
+&gt;&lt;/script&gt;
+
+&lt;script src="https://rawgit.com/mrdoob/three.js/master/examples/js/controls/TrackballControls.js"
+&gt;&lt;/script&gt;
+
+&lt;script src="./../data/w9/loader.js"&gt;&lt;/script&gt;
+
+&lt;script src="./../data/w9/stl.js"&gt;&lt;/script&gt;
+
+&lt;div&gt;
+select stl file: &lt;input type="file" id="file" /&gt; or drop stl file
+&lt;/div&gt;
+
+&lt;div id="view"&gt;&lt;/div&gt;</summary></entry><entry><title>期中作業分配</title><link href="./midtermhw.html" rel="alternate"></link><published>2017-04-20T11:00:00+08:00</published><updated>2017-04-20T11:00:00+08:00</updated><author><name>40423103</name></author><id>tag:,2017-04-20:./midtermhw.html</id><summary type="html">&lt;p&gt;期中作業分配&lt;/p&gt;
 
 
 &lt;h3&gt;作業網址：&lt;a href="http://mde.tw/2017springcd/blog/midterm-collaboration-evaluation.html"&gt;http://mde.tw/2017springcd/blog/midterm-collaboration-evaluation.html&lt;/a&gt;&lt;/h3&gt;
