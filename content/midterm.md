@@ -221,7 +221,7 @@ from browser import document as doc
 from browser import html
 import math
 # 準備繪圖畫布
-canvas = doc["40423103"]
+canvas = doc["40423136"]
 ctx = canvas.getContext("2d")
  
 fourbar_data = open("./../40423136/data/midterm5.csv").read()
@@ -347,5 +347,14 @@ ctx.closePath()
 </script>
 
 ##(三)Fourbar Walker OnShape 零件協同繪圖與組立查驗
+
+###組裝影片
+
+<iframe src="https://player.vimeo.com/video/214393468" width="640" height="357" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+###模擬影片
+
+<iframe src="https://player.vimeo.com/video/214729992" width="640" height="343" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 
 ##(四) 分組協同零件展示

@@ -198,7 +198,7 @@ from browser import document as doc
 from browser import html
 import math
 # 準備繪圖畫布
-canvas = doc["40423103"]
+canvas = doc["40423136"]
 ctx = canvas.getContext("2d")
 
 fourbar_data = open("./../40423136/data/midterm5.csv").read()
@@ -320,6 +320,12 @@ ctx.closePath()
 &lt;/script&gt;
 
 &lt;h2&gt;(三)Fourbar Walker OnShape 零件協同繪圖與組立查驗&lt;/h2&gt;
+&lt;h3&gt;組裝影片&lt;/h3&gt;
+&lt;iframe src="https://player.vimeo.com/video/214393468" width="640" height="357" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h3&gt;模擬影片&lt;/h3&gt;
+&lt;iframe src="https://player.vimeo.com/video/214729992" width="640" height="343" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
 &lt;h2&gt;(四) 分組協同零件展示&lt;/h2&gt;</summary></entry><entry><title>期中作業分配</title><link href="./midtermhw.html" rel="alternate"></link><published>2017-04-20T11:00:00+08:00</published><updated>2017-04-20T11:00:00+08:00</updated><author><name>40423103</name></author><id>tag:,2017-04-20:./midtermhw.html</id><summary type="html">&lt;p&gt;期中作業分配&lt;/p&gt;
 
 
