@@ -224,7 +224,7 @@ import math
 canvas = doc["40423136"]
 ctx = canvas.getContext("2d")
  
-fourbar_data = open("./../40423117/data/midterm4.csv").read()
+fourbar_data = open("./../40423136/data/midterm.csv").read()
 fourbar_list = fourbar_data.splitlines()
 # 以下可以利用 ctx 物件進行畫圖
 # 先畫一條直線
